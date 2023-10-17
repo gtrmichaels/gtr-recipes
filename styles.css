@@ -1,0 +1,28 @@
+body{
+    background-image:url(recipes/images/pic.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+}
+
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400&display=swap');
+* {
+    font-family: 'Poppins', sans-serif;
+}
+
+h1{
+    background-color: burlywood;
+    padding: 10px;
+    color: aliceblue;
+    border-radius: 5px;
+}
+ul li a{
+    font-size: 24px;
+}
+ul{
+    list-style-type: none;
+}
+h5{
+    color: darkgray;
+}
